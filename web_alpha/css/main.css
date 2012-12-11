@@ -1,0 +1,25 @@
+body {
+	text-align: center;
+	background-color: #000;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+#coming_soon {
+	width: 1335px;
+	height: 810px;
+	
+	margin: -360px 0 0 -667px;
+	padding:0;
+	position:absolute;
+	left:50%;
+	top:50%
+	
+	
+}
+.slice {
+	float: left;
+	width: 267px;
+	height: 270px;
+}

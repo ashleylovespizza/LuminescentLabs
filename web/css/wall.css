@@ -1,0 +1,243 @@
+
+
+* {
+	font-family: MuseoLink;
+	font-size: 18px;
+	margin: 0;
+	padding: 0;
+}
+
+
+#container {
+	width: 500px;
+	height: 500px;
+	position: relative;
+	overflow: auto;
+}
+	
+	.direction {
+
+		position: fixed;
+		z-index: 80;
+
+	}
+	.direction.up {
+		left: 0;
+		top: 0;
+		width: 100%;
+		height: 20%;
+	}
+	.direction.down {
+		left: 0;
+		bottom: 0;
+		width: 100%;
+		height: 20%;
+	}
+	.direction.left {
+		left: 0;
+		top: 0;
+		
+		width: 20%;
+		height: 100%;
+	}
+	.direction.right {
+		right: 0;
+		top: 0;
+		
+		width: 20%;
+		height: 100%;
+	}
+	
+#nav {
+	z-index: 25;
+	height: 135px;
+	width: 200px;
+	position: fixed;
+	bottom: 34px;
+	left: -4px;
+}
+	#nav a.nav_button, div.nav_button {
+		color: #ffffff;
+		margin-bottom: 14px;
+		display: block;
+		width: 179px;
+		height: 25px;
+		border-radius: 0 15px 15px 0;
+		border: 2px #9a9b9d solid;
+		text-align: right;
+		padding-right: 25px;
+		padding-top: 4px;
+
+	}
+	#nav div.nav_button {
+		background: rgba(213, 31, 19, .7);
+	}
+	
+	#nav a.nav_button {
+		background: rgba(0,0,0, .7);
+		text-decoration: none;
+	}
+	#nav a.nav_button:hover {
+		text-decoration: underline;
+	}
+	
+#vignette {
+	width: 100%;
+	height: 100%;
+	-webkit-box-shadow: inset 0px 0px 285px rgba(0,0,0,0.9);
+	-moz-box-shadow:    inset 0px 0px 285px rgba(0,0,0,0.9);
+	box-shadow:         inset 0px 0px 285px rgba(0,0,0,0.9);
+	z-index: 9;
+	overflow: hidden;
+	position: fixed;
+	line-height: 0;         /* ensure no space between bottom */
+	display: inline-block;  /* don't go wider than image */	
+}
+
+#logo {
+	width: 267px;
+	height: 27px;
+	position: fixed;
+	z-index: 10;
+	bottom: 33px;
+	right: 44px;
+}
+#information {
+	width: 1000px;
+	height: 1000px;
+	position: absolute;
+	z-index: 10;
+}
+
+#buttons {
+	position: absolute;
+	z-index: 1;
+}
+#popups {
+	position: absolute;
+	z-index: 12;
+}
+	.popup {
+		position: absolute;
+		width: 674px;
+		height: 287px;
+		background-repeat: no-repeat;
+		background-image: url(/images/wall/pop_sheet-coral.png);
+		visibility: none;
+	}
+	.popup .close_button {
+		cursor: pointer;
+		position: absolute;
+		top: 0;
+		right: 0;
+		width:  60px;
+		height: 60px;
+	}
+		.popup .close_button.left_side {
+			top: 0;
+			left: 0;
+		}
+	.infobutton:hover {
+		cursor: pointer;
+	}
+	.infobutton {
+		position: absolute;
+		width: 30px;
+		height: 29px;
+		background: url(/images/wall/infobutton.png);
+	}
+	.infobuttonbg_container {
+		position: absolute;
+		width: 70px;
+		height: 70px;
+		text-align: center;
+	}
+	@-webkit-keyframes pulse {
+		0% { width: 70px; height: 70px; margin-top: -35px; margin-left: -35px;
+			-webkit-animation-timing-function: ease-out;}
+		50% { width: 50px; height: 50px; margin-top: -25px; margin-left: -25px; 
+			-webkit-animation-timing-function: ease-in;}
+		100% { width: 70px; height: 70px; margin-top: -35px; margin-left: -35px; 
+			-webkit-animation-timing-function: ease-out;}
+	}
+	.infobutton_bg {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		margin: auto auto;
+		-webkit-animation: pulse 3s 0.5s infinite;
+		width: 75px;
+		height: 75px;
+		background: -moz-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 15%, rgba(255,255,255,0) 63%, rgba(255,255,255,0) 100%); /* FF3.6+ */
+		background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,rgba(255,255,255,1)), color-stop(15%,rgba(255,255,255,1)), color-stop(63%,rgba(255,255,255,0)), color-stop(100%,rgba(255,255,255,0))); /* Chrome,Safari4+ */
+		background: -webkit-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%,rgba(255,255,255,1) 15%,rgba(255,255,255,0) 63%,rgba(255,255,255,0) 100%); /* Chrome10+,Safari5.1+ */
+		background: -o-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%,rgba(255,255,255,1) 15%,rgba(255,255,255,0) 63%,rgba(255,255,255,0) 100%); /* Opera 12+ */
+		background: -ms-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%,rgba(255,255,255,1) 15%,rgba(255,255,255,0) 63%,rgba(255,255,255,0) 100%); /* IE10+ */
+		background: radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%,rgba(255,255,255,1) 15%,rgba(255,255,255,0) 63%,rgba(255,255,255,0) 100%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	}
+
+
+
+#wall {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1;
+	width: 3850px;
+	height: 2400px;
+	
+}
+	
+	.light_wall {
+		z-index: 5;
+		-webkit-background-size: 400px 400px;
+		background: url('/images/wall/fuckoff.jpg') top left;
+		
+		width: 400px;
+		height: 400px;
+		position: relative;
+		display: inline-block;
+		float: left;
+		/* todo - change this to being centered eventually */
+		/*
+		position: absolute;
+		top: 0;
+		left: 0;
+		*/
+	}
+	.light_wall:nth-child(10n+10) {
+		width: 240px;
+	}
+
+
+
+	div#getflash_tag {
+		margin: 0 auto;
+		background: url("/images/chrome/downloadflash.png") no-repeat top right;
+		width: 194px;
+		height: 137px;
+		height: 137px;
+	
+		position: fixed;
+		right: 0;
+		top: 0;
+		z-index: 999;
+	}
+
+#dragme {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 9;
+}
+
+
+#bioluminescent_layer {
+background-repeat: no-repeat;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 8;
+	
+}

@@ -1,0 +1,28 @@
+
+	<a href="http://ez-www.amnh.org/creatures-of-light/videos/making-of-creatures-of-light" target="_blank">
+		<div id="amnh_tag"></div>
+	</a>
+	<div id="landing">
+		<img src="/images/chrome/logo_landing.png" alt="Luminescent Labs"/>
+		<div class="infobox">
+			<p>When night falls on a coral reef, the dazzling colors of daytime disappear. But if divers shine <span class="blue">blue</span> or <span class="violet">violet</span> light, another view of the reef emerges: Corals that once were dull now glow in neon shades of pink, orange and green. <br/><br/>
+Night-dive with us and see the hidden world of coral reefs!</p>
+
+
+			<a href="/home.html">
+				<div class="dive button">
+					Let's Dive
+				</div>
+			</a>
+	
+	
+			<a href="#/science">
+				<div class="what button">
+					What is Biofluorescence?
+				</div>
+			</a>
+		</div>
+
+
+	</div>
+

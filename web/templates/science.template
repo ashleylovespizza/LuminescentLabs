@@ -1,0 +1,124 @@
+
+<div id="container" class="science">
+		 <a href="/index.html"><img title="asdfasdf" src="/images/chrome/innerpage_logo.png" alt="Luminescent Labs" id="logo"/></a>
+		<div id="nav">
+				<a class="nav_button" href="/home.html">Coral Wall</a>
+				<div class="nav_button">Science</div>
+				<a class="nav_button" href="/#/labbers">The Labbers</a>
+		</div>
+		
+		<div id="content">
+			<h1>Bio<span>lumin</span>escence vs Bio<span>fluor</span>escence</h1>
+			
+			<div id="holder">
+				<div>
+					<p><span>Bioluminescence</span> is living light produced in an array of glowing organisms. It is a highly efficient chemical reaction that releases mainly light and almost no heat –a.k.a. “cold light.” The phenomenon of bioluminescence is smattered across much of the tree of life. </p>
+				</div>
+				<div>
+					
+					<div class="labelled_img right">	
+						<img src="/images/science/science_whitegreenlight.jpg" alt="White and green light on Urobatis jamaicensis"/>
+						<label style="width: 300px">White light illumination and fluorescent light illumination of <span style="font-style: italic">Urobatis jamaicensis</span></label>
+					</div>
+					<p class="bumpdown">As opposed to bioluminescence, <span>biofluorescence</span> is not a chemical reaction, instead it involves special pigments that absorb light of a certain color and then re-emit it at a different color. In the process, some energy absorbed from the light is lost as heat. So the outgoing light has less energy- therefore longer wavelength- than the light coming in. What this means is that a fluorescent molecule is “excited” with light with a color that is more towards the blue end of the light spectra (i.e. rainbow) than the light that it gives off.  The change in wavelength translates to a change in color. 
+					</p>
+				</div>
+				<div class="bigbumpdown">
+					<div class="h2">The Science of Bioluminescence</div>
+					
+					<div class="labelled_img left">
+						<img src="/images/science/science_reaction1.jpg" alt="Luciferin - Luciferase reaction "/>
+						<label>Luciferin - Luciferase reaction </label>
+						<p class="halfwidth">
+							Bioluminescence is produced by the intermingling and interaction of three chemicals: <span id="luciferin" title="Luciferin: These light-emitting molecules act like the “gasoline” that is ignited to produce light. Energy is stored within the luciferin molecule.">luciferin</span>, <span id="luciferase" title="Luciferase: a protein enzyme that acts as the “sparkplug” and fires up the chemical reaction.">luciferase</span>, and oxygen. 
+
+						</p>
+					</div>
+					
+					<div class="labelled_img right">
+						<img src="/images/science/science_reaction2.jpg" alt="Photoprotein bioluminescent reaction"/>
+
+						<label>Photoprotein bioluminescent reaction</label>
+						
+						</label>
+
+							<p class="halfwidth">
+							Some organisms generate their own light through a “<span id="photoprotein" title="Photoprotein: Luciferin + Luciferase (or something similar) + oxygen, all bound as one tidy unit. Needs Ca2+ or Mg2+ to “pull the trigger” and FIRE.">photoprotein</span>,” which emits light in an oxygen-independent reaction, as it already has the oxygen built in. 
+							</p>
+
+						
+					</div>
+					
+				</div>
+				
+				
+				<div class="bigbumpdown">
+					<div class="h2  bigbumpdown">The Science of Biofluorescence</div>
+					
+					<div class="labelled_img left">
+						<img src="/images/science/science_uvlight.jpg" alt="Light source---> blue light is absorbed----> green light is emitted"/>
+						<label>Light source---> blue light is absorbed----> green light is emitted</label>
+					</div>
+					
+					<p class="halfwidth right" style="width: 296px">
+							Fluorescent light is only seen while the specimen is being illuminated.
+					</p>
+				</div>
+				<div class="bumpdown">
+					<p class="bumpdown">
+						On an atomic level, fluorescent molecules do not produce their own light; they absorb photons, which temporarily excite electrons to a higher energy state. As these electrons quickly relax to their ground state, they release their energy, usually at a longer wavelength. Excitation and relaxation occurs almost instantaneously (within a trillionth to a millionth 
+						of a second).
+						</p>
+				</div>
+				<div class="bumpdown">
+					<div class="labelled_img">
+						<img src="/images/science/science_flourescenceanatomy.jpg" alt="Fluorescence, atomically speaking"/>
+						<label>Fluorescence, atomically speaking</label>
+					</div>
+				</div>
+				
+				<div>
+					<div class="h2">Want More?</div>
+					<p class="halfwidth left">Stay tuned. This website will soon feature brand new photos and videos of undersea fluorescing creatures and more! 
+						<a class="separated" href="https://twitter.com/#!/luminescentlabs/"><img src="/images/chrome/twitter_follow.jpg" alt="Follow us on Twitter"/></a>
+						
+						<a class="separated" href="https://www.facebook.com/luminescentlabs"><img src="/images/chrome/fb_like.jpg" alt="Like us on Facebook"/></a>
+							
+						<a href="http://scientistatwork.blogs.nytimes.com/author/david-gruber/"><img src="/images/chrome/nyt_follow.jpg" alt="Follow New York Times blog"/></a> 
+						<span class="nyt">
+							Follow Luminescent Labbers <a href="http://scientistatwork.blogs.nytimes.com/author/david-gruber/" target="_blank">David Gruber</a> and <a href="http://scientistatwork.blogs.nytimes.com/author/vincent-pieribone/" target="_blank">Vincent Pieribone</a> as they blog for the New York Times.
+						</span>
+						
+					</p>
+					
+					<div class="labelled_img right bumpdown">
+						<a href="http://ez-www.amnh.org/creatures-of-light/videos/making-of-creatures-of-light" target="_blank">
+								<img src="/images/science/science_amnh.jpg" alt="Creatures of Light at AMNH"/>
+						</a>
+						<p style="width: 320px; font-size: 18px; padding-left: 36px; padding-top; 18px; text-align: center">
+						Visit the <a href="http://ez-www.amnh.org/creatures-of-light/videos/making-of-creatures-of-light" target="_blank"><span>Creatures of Light</span></a> exhibit at the American Museum of Natural History in New York City.
+						</p>
+					</div>
+				</div>
+				<div>
+				</div>
+			</div>
+			
+			
+			
+
+			
+		</div>
+	</div>
+
+	<script type="text/javascript" src="/js/jquery.bgiframe.js"></script>
+	<script type="text/javascript" src="/js/jquery.delegate.js"></script>
+	<script type="text/javascript" src="/js/jquery.dimensions.js"></script>
+	<script type="text/javascript" src="/js/jquery.tooltip.js"></script>
+	<script type="text/javascript">
+		$(function() {
+			$("#photoprotein").tooltip();
+			$("#luciferase").tooltip();
+			$("#luciferin").tooltip();
+		});
+	</script>

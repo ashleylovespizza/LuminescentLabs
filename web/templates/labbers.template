@@ -1,0 +1,95 @@
+<div id="container" class="labbers">
+
+	<a href="/index.html"><img title="Luminescent Labs" src="/images/chrome/innerpage_logo.png" alt="Luminescent Labs" 	id="logo"/></a>
+	<div id="nav">
+			<a class="nav_button" href="/home.html">Coral Wall</a>
+			<a class="nav_button" href="/#/science">Science</a>
+			<div class="nav_button">The Labbers</div>
+	</div>
+	
+	<div id="content">
+		<h1>Meet the <span>Luminescent</span> Labbers</h1>
+		
+		<div id="holder">
+			<!--
+			<div>
+				<p></p>
+			</div>
+			-->
+			<div>
+				<div class="h2">David Gruber</div>
+				
+				<img class="bumpdown" src="/images/labbers/davidgruber.jpg" alt="John Sparks"/>
+				<p class="bumpdown labber_profile">
+					David Gruber, an assistant professor of biology and environmental science at Baruch College, aims to 	fill in the gap in scientific knowledge about reef life below 100 feet (30 m) down. By studying coral at 	such depths, Gruber and his team hope to learn how the form and function of fluorescence varies among 	corals that receive differing amounts of sunlight because they live at different depths, and how the 	variation in light level affects the algae that live in the coral.
+				</p>
+				
+			</div>
+			
+	
+			<div>
+				<div class="h2">John Sparks</div>
+				
+				<img class="bumpdown" src="/images/labbers/johnsparks.jpg" alt="John Sparks"/>
+				<p class="bumpdown labber_profile">
+					John Sparks, an associate curator at the American Museum of Natural History, originally came to Bloody 	Bay Wall to study fluorescence in coral. However, to the surprise of Sparks, he and his colleague David 	Gruber discovered that a whole range of fish display previously undiscovered fluorescent patterns. Some 	fish glow very little, whereas others glow from head to tail (and even on the inside). The function of 	fluorescence in these fishes remains a mystery, and is a major focus of Sparks’ ongoing research. 
+				</p>
+				
+			</div>
+			
+			
+			
+			<div>
+				<div class="h2">Vincent Pieribone</div>
+				
+				<img class="bumpdown" src="/images/labbers/vincentpieribone.jpg" alt="John Sparks"/>
+				<p class="bumpdown labber_profile">
+					For Vincent Pieribone, a Yale University neuroscientist, the coral wall is a vast, untapped library of 	potential medicines. Not only have the creatures on the coral wall evolved solutions to unique 	biomedical challenges, but their fluorescent chemicals could provide new tools to researchers. 	Scientists use fluorescent chemicals as markers in many different areas of biology, and Pieribone 	believes Bloody Bay Wall’s fluorescent creatures could provide an array of similarly important glowing 	proteins.
+				</p>
+				
+			</div>
+			
+			
+			
+			<div>
+				<div class="h2">Jim Hellemn</div>
+				
+				<img class="bumpdown" src="/images/labbers/jimhellemn.jpg" alt="John Sparks"/>
+				<p class="bumpdown labber_profile">
+					In 1998, photographer Jim Hellemn set out to photograph an entire coral reef wall at a resolution high 	enough to produce life-sized re-creations. Producing such a large, sharp picture would require 	assembling many different photos, all with the same lighting and angle, into a giant mosaic. Hellemn 	couldn’t find any existing equipment that would maintain the same conditions for each picture, so he 	built a special underwater camera rig himself. The custom mount Hellemn designed at home worked 	perfectly, allowing him to produce unique photos full of so much detail that even scientists began to 	take notice.
+				</p>
+				<p class="labber_profile">
+					Visit his site: <a href="http://www.portraitofcoralwall.com" target="_blank">portraitofcoralwall.com</a>
+				</p>
+				
+			</div>
+			
+			
+			<div style="clear: both;">
+				<div class="h2">Additional Credits and Thanks</div>
+				
+				<img class="bumpdown" src="/images/labbers/sponsors.png" alt="Our Sponsors"/>
+				<p class="bumpdown labber_profile">
+					Intel Corporation<br/>
+					Little Cayman Beach Resort
+					<br/>Reef Divers
+					<br/>SeaBotix
+					<br/>City University of New York
+					<br/>Marine Camera Distributors
+					<br/>Ocean Technology Systems
+					<br/>Central Caribbean Marine Institute
+					<br/>University of California San Diego Calit2
+					<br/>Underwater Kinetics
+					<br/>Ikelite
+					<br/>Night Sea
+				</p>
+				<div class="divider"></div>
+				<p class="labber_profile">
+					Site design by <a href="http://emmawelles.net/">Emma Welles</a></br>
+					Site development by <a href="http://www.ashleyholtgraver.com">Ashley Holtgraver</a>
+				</p>
+				
+			</div>
+		</div>
+	</div>
+</div>

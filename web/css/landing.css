@@ -1,0 +1,82 @@
+body {
+	margin: 0;
+	padding: 0;
+
+		background: url("/images/chrome/landing_bg.jpg") no-repeat top center #000000;
+	}
+
+
+div#landing {
+	margin: 200px auto 0 auto;
+	width: 630px;
+	text-align: center;
+
+}
+	div#amnh_tag {
+		margin: 0 auto;
+		background: url("/images/chrome/amnh_corner.png") no-repeat top right;
+		width: 291px;
+		height: 204px;
+	
+		position: fixed;
+		right: 0;
+		top: 0;
+
+	}
+
+	div.infobox {
+		width: 550px;
+		margin-top: 32px;
+		padding: 20px 40px 70px 40px;
+		background-color: rgba(0,0,0,.5);
+		border-radius: 12px;
+
+		font-family: Georgia, 'Times New Roman', sans-serif;
+		color: #ffffff;
+		font-size: 20px;
+		line-height: 1.4em;
+		text-align: justify;
+		text-justify: inter-word;
+	}
+		div.infobox span.blue {
+			color: #008aff;
+		}
+		div.infobox span.violet {
+			color: #9728ff;
+		}
+
+		div.infobox a {
+
+
+			text-decoration: none;
+		}
+		div.infobox a div.button {
+			font-family: MuseoLink;
+			height: 28px;
+			border-radius: 15px;
+			border: 2px #a0a29f solid;
+			text-align: center;
+
+			color: #fff;
+			text-decoration: none;
+
+			display: inline-block;
+				float: left;
+			margin-left: 30px;
+		}
+		div.infobox a:hover div.button {
+		}
+		div.infobox a div.dive {
+			width: 190px;
+			font-size: 22px;
+				color: #fff;
+				text-decoration: none;
+				background-color: #9728ff;
+		}
+
+		div.infobox a div.what {
+			width: 250px;
+			font-size: 16px;
+				color: #fff;
+				text-decoration: none;
+		}

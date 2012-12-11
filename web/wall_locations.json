@@ -1,0 +1,112 @@
+{
+"locations": [
+	{
+		"id": "sheetcoral",
+		"image": "pop_sheet-coral.png",
+		"info_x": 666,
+		"info_y": 467,
+		"pop_x": 666,
+		"pop_y": 467
+	},
+	{
+		"id": "moray",
+		"image": "pop_False-moray.png",
+		"info_x": 1054,
+		"info_y": 651,
+		"pop_x": 1054,
+		"pop_y": 651
+	},
+	{
+		"id": "stargazer",
+		"image": "pop_stargazer.png",
+		"info_x": 707,
+		"info_y": 1549,
+		"pop_x": 707,
+		"pop_y": 1549
+	},
+	{
+		"id": "yellowstingray",
+		"image": "pop_Yellow-stingray.png",
+		"info_x": 1112,
+		"info_y": 1666,
+		"pop_x": 1112,
+		"pop_y": 1666
+	},
+	
+	{
+		"id": "hbass",
+		"image": "pop_harlequin-bass.png",
+		"info_x": 1686,
+		"info_y": 265,
+		"pop_x": 1686,
+		"pop_y": 265
+	},
+	{
+		"id": "pinkanemone",
+		"image": "pop_pink-sea-anemone.png",
+		"info_x": 1854,
+		"info_y": 635,
+		"pop_x": 1854,
+		"pop_y": 635
+	},
+	{
+		"id": "lettucecoral",
+		"image": "pop_lettace_coral.png",
+		"info_x": 2410,
+		"info_y": 371,
+		"pop_x": 2410,
+		"pop_y": 371
+	},
+	{
+		"id": "starletcoral",
+		"image": "pop_starlet_coral.png",
+		"info_x": 3373,
+		"info_y": 557,
+		"pop_x": 2684,
+		"pop_y": 559
+	},
+	{
+		"id": "soapfish",
+		"image": "pop_soapfish.png",
+		"info_x": 2889,
+		"info_y": 492,
+		"pop_x": 2179,
+		"pop_y": 492
+	},
+	{
+		"id": "starcoral",
+		"image": "pop_star_coral.png",
+		"info_x": 3049,
+		"info_y": 1275,
+		"pop_x": 2345,
+		"pop_y": 1275
+	},
+	{
+		"id": "bluetang",
+		"image": "pop_blue_tang.png",
+		"info_x": 3415,
+		"info_y": 1543,
+		"pop_x": 2705,
+		"pop_y": 1543
+	},
+	{
+		"id": "lizardfish",
+		"image": "pop_lizardfish.png",
+		"info_x": 2791,
+		"info_y": 1787,
+		"pop_x": 2791,
+		"pop_y": 1787
+	},
+	{
+		"id": "scorpionfish",
+		"image": "pop_scorpionfish.png",
+		"info_x": 3079,
+		"info_y": 1920,
+		"pop_x": 2386,
+		"pop_y": 1920
+	}
+
+
+]
+	
+}

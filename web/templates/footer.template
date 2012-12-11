@@ -1,0 +1,40 @@
+<div id="footer">
+	
+	<div class="cols">
+
+		<a href="/index.html"><img src="/images/chrome/logo.png" alt="Luminescent Labs" width="222px"/></a>
+
+		<div style="display: block">
+			<div class="col">
+				<h5>Coral Wall</h5>
+				<p><a href="/home.html">Interactive Exhibit</a></p>
+			</div>
+			<div class="col">
+				<h5>Science</h5>
+				<p><a href="/science.html">What is Biofluorescence?</a></p>
+				<p>More Coming Soon</p>
+			</div>
+			<div class="col">
+				<h5>Exhibits</h5>
+				<p>Coming Soon</p>
+			</div>
+			<div class="col">
+				<h5>Art</h5>
+				<p>Coming Soon</p>
+			</div>
+			<div class="col">
+				<h5><a href="/labbers.html">Labbers</a></h5>
+			</div>
+		</div>
+	</div>
+
+
+	<div class="book_col">
+		<a href="http://www.amazon.com/Aglow-Dark-Revolutionary-Science-Biofluorescence/dp/0674024133/ref=sr_1_7?s=books&ie=UTF8&qid=1341563299&sr=1-7&keywords=david+gruber" target="_blank"> <img src="/images/chrome/AglowInTheDark_cover.png" alt="Aglow In The Dark by Vincent Pieribone & David F. Gruber" /></a>
+		<p>Aglow in the Dark: The Revolutionary Science of Biofluorescence <span style="font-size: 10px">[Paperback]</span></p>
+		<p>by Vincent Pieribone & David F. Gruber</p>
+		<a href="http://www.amazon.com/Aglow-Dark-Revolutionary-Science-Biofluorescence/dp/0674024133/ref=sr_1_7?s=books&ie=UTF8&qid=1341563299&sr=1-7&keywords=david+gruber" target="_blank"> 
+			<img src="/images/chrome/buy_from_amazon.png" alt="Buy from Amazon"/>
+		</a>
+	</div>
+</div>
